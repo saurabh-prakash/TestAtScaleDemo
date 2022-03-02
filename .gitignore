@@ -1,0 +1,13 @@
+.DS_Store
+temp/
+coverage
+nexe
+node_modules
+*.log
+*.exe
+*.bin
+!winsw.exe
+.idea
+.nexe
+lib
+
